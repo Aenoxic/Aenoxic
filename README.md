@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, React Native**
 
-- 📫 How to reach me **Aenoxic#0001**
+- 📫 Reach me on Discord: **aenoxic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
